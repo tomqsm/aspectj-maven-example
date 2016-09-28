@@ -6,7 +6,7 @@ package biz.letsweb.aspecting;
 public class App {
 
     @Timed
-	public static void main(String... args) {
-		System.out.println("Hello World!");
-	}
+    public static void main(String... args) {
+        System.out.println("Hello World!");
+    }
 }

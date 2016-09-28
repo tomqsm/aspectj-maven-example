@@ -1,0 +1,1 @@
+java -cp /home/tomasz/.m2/repository/org/aspectj/aspectjrt/1.8.8/aspectjrt-1.8.8.jar:./target/classes biz.letsweb.aspecting.App
